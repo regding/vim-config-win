@@ -5,12 +5,12 @@
 
 ### 使用到的插件（未使用插件管理软件，需要自己下载配置）
 * [pydiction][] 丰富的的代码补全功能，按tab补全代码
-* [Ctags for win][Ctags] 分析源代码的工具
+* [Ctags for win][Ctags] 分析源代码的工具 需要加入环境变量
 * [TagList][]  配合Ctags可以高效的查看源代码
 * [WinManager][]  窗口分栏显示插件
-* [Cscope][]  更高级的分析源代码，支持反向查找 [Windows版下载][Cscope-win]
+* [Cscope][]  更高级的分析源代码，支持反向查找 [Windows版下载][Cscope-win] 需要加入环境变量
 * [MiniBufExplorer][] 管理vim的buffer(缓冲区)，快速的在多个同时编辑的文件间切换
-* [Grep][]  linux的grep [Windows版下载][Grep-win]
+* [Grep][]  linux的grep [Windows版下载][Grep-win] 需要加入环境变量
 
 
 ### 参考文档中提及，但未集成到本配置的插件
